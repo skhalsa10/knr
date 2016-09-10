@@ -1,0 +1,12 @@
+signed char min = -128
+signed char max = 127
+signed short min = -32768
+signed short min = 32767
+signed int min = -2147483648
+signed int min = 2147483647
+signed long min = -9223372036854775808
+signed long min = 9223372036854775807
+unsigned char max = 255
+unsigned char min = 65535
+unsigned char min = 4294967295
+unsigned char min = 18446744073709551615
